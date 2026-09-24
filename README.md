@@ -1,6 +1,6 @@
 # Generating Changelogs — Claude Agent Skill
 
-A Claude [Agent Skill](https://docs.claude.com) that turns a git repository's raw commit
+A Claude Agent Skill that turns a git repository's raw commit
 history into a clean, categorized changelog entry, following the
 [Keep a Changelog](https://keepachangelog.com/) format.
 
@@ -88,12 +88,7 @@ as a Skill in Claude), then simply ask Claude something like:
 Claude will load the skill automatically, run the script, review the results, and present
 the finished changelog entry.
 
-## Project links
-
-- **GitHub repository:** [ADD LINK HERE]
-- **Course / assignment:** [ADD LINK HERE]
-
 ## About
 
-Built as a submission for [COURSE NAME — ADD LINK/DETAILS HERE], demonstrating how to
+Built for exploring claude skills, and demonstrating how to
 package a reusable workflow (git history → categorized changelog) as a Claude Agent Skill.
